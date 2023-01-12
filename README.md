@@ -1,5 +1,5 @@
 <h3>Welcome to my profile :D</h3>
-<h4>I go by MelonFruit. I enjoy computer related topcis and programming</h4>
+<h4>I go by MelonFruit. I enjoy computer related topics and programming</h4>
 <details>
 	<summary>Find me @</summary>
 	<ul>
