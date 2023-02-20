@@ -3,8 +3,8 @@
 <details>
 	<summary>Find me @</summary>
 	<ul>
-		<li><a href = "https://www.codewars.com/users/MelonFruit">Codewars</a>: MelonFruit</li>
-    <li><a href = "https://www.youtube.com/@melonfruit7">Youtube</a>: MelonFruit</li>
+		<li><a href = "https://www.codewars.com/users/MelonFruit" target="_blank">Codewars</a>: MelonFruit</li>
+    		<li><a href = "https://www.youtube.com/@melonfruit7" target="_blank">Youtube</a>: MelonFruit</li>
 		<li>Discord: MelonFruit#8222</li>
 	</ul>
 </details>
