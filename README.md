@@ -5,15 +5,16 @@
 	<ul>
 		<li><a href = "https://www.codewars.com/users/MelonFruit" target="_blank">Codewars</a>: MelonFruit</li>
     		<li><a href = "https://www.youtube.com/@melonfruit7" target="_blank">Youtube</a>: MelonFruit</li>
-		<li>Discord: MelonFruit#8222</li>
+		<li>Discord: melonfruit</li>
 	</ul>
 </details>
 <details>
   <summary>Programming Languages</summary>
 	<ul>
-		<li>Java -> Main</li>
+		<li>Java -> Proficient</li>
+		<li>C -> Proficient</li>
 		<li>JavaScript -> Alright</li>
 		<li>Python -> Meh</li>
-    <li>Kotlin -> Learning</li>
+    		<li>Kotlin -> Forgot a lot</li>
 	</ul>
 </details>
