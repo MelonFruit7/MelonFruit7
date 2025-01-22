@@ -28,9 +28,9 @@
 [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&link=https%3A%2F%2Fdiscord.com%2Fusers%2F489197333792292864)](https://www.codewars.com/users/MelonFruit)
 
 ## 🏠 Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MelonFruit7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=MelonFruit7&theme=vue-dark&hide_border=true)
 <div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=MelonFruit7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelonFruit7&theme=vue-dark&hide_border=true"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelonFruit7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
